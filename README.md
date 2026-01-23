@@ -53,13 +53,14 @@
 
 ###
 
-<h3 align="left">Todo list</h3>
+<h3 align="left">ShopElectronics/h3>
 
 ###
 
 <div><a href='https://shopelectronics.vercel.app/'>Протестировать можно тут <---</a></div>
 <div><a href='https://github.com/ilyaKotik22/todo-buisnes'>Репозиторий проекта</a></div>
-<div>Небольшое приложение ежедневник, имеющий в себе фильтрацию, приятный интерфейс и работающий на localStorage(без backend части)</div>
+<div>**ShopElectronics** — современное веб-приложение на **Next.js 14+** с **TypeScript**, **Prisma** и системой аутентификации.  
+Приложение включает каталог товаров, корзину, фильтры, поиск и поддержку светлой/тёмной темы.  </div>
 
 
 ###
