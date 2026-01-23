@@ -57,6 +57,20 @@
 
 ###
 
+<div><a href='[https://ilyakotik22.github.io/todo-buisnes/](https://shopelectronics.vercel.app/)'>Протестировать можно тут <---</a></div>
+<div><a href='https://github.com/ilyaKotik22/todo-buisnes'>Репозиторий проекта</a></div>
+<div>Небольшое приложение ежедневник, имеющий в себе фильтрацию, приятный интерфейс и работающий на localStorage(без backend части)</div>
+
+
+###
+
+
+###
+
+<h3 align="left">Todo list</h3>
+
+###
+
 <div><a href='https://ilyakotik22.github.io/todo-buisnes/'>Протестировать можно тут <---</a></div>
 <div><a href='https://github.com/ilyaKotik22/todo-buisnes'>Репозиторий проекта</a></div>
 <div>Небольшое приложение ежедневник, имеющий в себе фильтрацию, приятный интерфейс и работающий на localStorage(без backend части)</div>
