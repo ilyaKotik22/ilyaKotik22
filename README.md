@@ -59,6 +59,19 @@
 
 ###
 
+<h3 align="left">AniX</h3>
+
+###
+
+<div><a href='https://github.com/ilyaKotik22/anix'>Репозиторий проекта</a></div>
+
+<div><strong>AniX</strong> — современное веб-приложение для просмотра аниме, разработанное на <strong>React</strong>, <strong>TypeScript</strong> и <strong>Vite</strong>. Пользователи могут искать аниме, фильтровать каталог по жанрам, просматривать информацию о произведениях и эпизодах, смотреть видео через встроенный плеер, оставлять комментарии, добавлять аниме в избранное, а также регистрироваться, авторизовываться и управлять своим профилем.</div>
+
+<div><strong>Стек:</strong> React, TypeScript, Vite, React Router, CSS Modules, REST API.</div>
+
+###
+
+
 <h3 align="left">ShopElectronics</h3>
 
 ###
