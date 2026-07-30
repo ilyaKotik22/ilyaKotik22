@@ -45,12 +45,15 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="Vue.js" />
+  <img width="12" />
  <img src="https://skillicons.dev/icons?i=next" height="40" alt="vite logo"  />
   <img width="12" />
  <img src="https://skillicons.dev/icons?i=prisma" height="40" alt="vite logo"  />
   <img width="12" />
  <img src="https://skillicons.dev/icons?i=postgresql" height="40" alt="vite logo"  />
   <img width="12" />
+
 </div>
 
 
